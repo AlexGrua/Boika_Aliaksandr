@@ -1,0 +1,20 @@
+<style>
+    #test{
+        font-style: italic;
+    }
+    p{
+        color:blue
+    }
+    .vip1{
+        color:red
+    }
+    .super_vip{
+        color: green
+    }
+   .aa{
+    color:aqua
+   }
+   ul.bb li{
+    color:chartreuse
+   }
+</style>
