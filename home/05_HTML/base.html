@@ -19,8 +19,8 @@
                         <legend>Строка поиска</legend>
                         <input type="text" name="search1" maxlength="10"> <input type="submit" value="Искать">
                         <br>
-                        <label for=""><input type="radio" name="radio_search1" value="check_website">на сайте</label>
-                        <label for=""><input type="radio" name="radio_search1" value="check_google">google</label> <br>
+                        <label><input type="radio" id="radio_search1" name="radio_search1" value="check_website">на сайте</label>
+                        <label><input type="radio" id="radio_search2" name="radio_search1" value="check_google">google</label> <br>
 
                         <label for=""><em>Длина запроса не более 10 симвоолов</em></label>
                     </fieldset>
@@ -164,8 +164,8 @@
                         <legend>Upload</legend>
                         <label for="">Файл:</label> <br>
                         <input type="file" name="file_field"> <br>
-                        <label for="">Срок хранения (года):</label> <br>
-                        <input type="text" name="valid_till">
+                        <label for="valid_till">Срок хранения (года):</label> <br>
+                        <input type="text" id="valid_till" name="valid_till">
                         <input type="submit" value="загрузить">
                     </fieldset>
                 </form>
