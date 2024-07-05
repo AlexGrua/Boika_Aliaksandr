@@ -42,7 +42,7 @@
                         <label><input type="radio" name="radio_search1" value="check_website">на сайте</label>
                         <label><input type="radio" name="radio_search1" value="check_google">google</label> <br>
 
-                        <label for=""><em>* - обязательное поле</em></label>
+                        <label><em>* - обязательное поле</em></label>
 
                     </fieldset>
 
@@ -60,9 +60,9 @@
 
                     <fieldset>
                         <legend>Авторизуйтесь</legend>
-                        <input type="text" name="login" required>* Логин <br>
-                        <input type="text" name="password" required>* Пароль <br>
-                        <input type="checkbox" name="online"> Оставаться в системе <br>
+                        <input type="text" name="login" id="login" required> <label for="login">* Логин</label> <br>
+                        <input type="text" name="password" id="password" required> <label for="password">* Пароль</label> <br>
+                        <input type="checkbox" name="online" id="online"><label for="online">Оставаться в системе</label>  <br>
                         <input type="submit" value="Войти"> <br>
                         <label for=""><em>* - обязательное поле</em></label>
 
@@ -99,9 +99,8 @@
 
                     <fieldset>
                         <legend>Оставьте Ваш отзыв</legend>
-                        <input type="text" name="user" required>* Имя <br>
-                        <input type="text" name="email" pattern="^@\\s]+@[^@\\s]+\\.[^@\\s]+$" required>*
-                        e-mail <br>
+                        <input type="text" name="user" id="user" required><label for="user">* Имя</label>  <br>
+                        <input type="email" name="email" id="email" pattern="[a-z0-9.]+@[a-z0-9.-]+\.[a-z]{2,}$" required><label for="email">* e-mail</label>  <br>
                         <textarea name="review" id="">Форма отправки</textarea> <br>
                         <input type="submit" value="Отправить"> <br>
                         <label for=""><em>* - обязательное поле</em></label>
@@ -180,10 +179,10 @@
                         <legend>Строка поиска</legend>
                         <input type="text" name="russian" pattern="[а-яА-ЯЁё\s]+" value="только русские буквы"><br>
 
-                        <label for=""><em>Телефонный номер в формате </em></label> <br>
+                        <label for="phone"><em>Телефонный номер в формате </em></label> <br>
 
-                        <label for=""><em>+ХХХ-ХХ-ХХХХХХХ, где Х - любое число </em></label> <br>
-                        <input type="tel" name="phone" pattern="^\+\d{3}-\d{2}-\d{7}$"
+                        <label for="phone"><em>+ХХХ-ХХ-ХХХХХХХ, где Х - любое число </em></label> <br>
+                        <input type="tel" name="phone" id="phone" pattern="^\+\d{3}-\d{2}-\d{7}$"
                             value="+375-29-1234567"><br>
 
                         <input type="submit" value="Проверить">
