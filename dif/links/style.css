@@ -1,20 +1,14 @@
-<style>
-    #test{
-        font-style: italic;
-    }
-    p{
-        color:blue
-    }
-    .vip1{
-        color:red
-    }
-    .super_vip{
-        color: green
-    }
-   .aa{
-    color:aqua
-   }
-   ul.bb li{
-    color:chartreuse
-   }
-</style>
+
+body{
+   
+    font-family: "Ga Maamli", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    opacity: 1;
+   letter-spacing: 10px;
+   line-height: 2em;
+   word-spacing: 2em;
+   color: #FFFFFF;
+background: #232323;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+}
