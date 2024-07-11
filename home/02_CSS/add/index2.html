@@ -6,98 +6,125 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 
+
     <style>
         * {
             margin: 0px;
             box-sizing: border-box;
         }
 
-        .main{
+        .large {
             display: flex;
+            flex-direction: column;
+            margin: 2px;
+
         }
 
-        .navigation {
-            background-color: red;
-            width: 15em;
-            float: left;  }
-        
-        .wrap {
-            background-color: blue;
+        .medium {
+            display: flex;
+            flex-direction: row;
+            background-color: grey;
+            margin: 2px;
         }
 
-    
-        .article {
-
-            background-color: rgb(179, 171, 171);
-            margin-bottom: .2em;
-            overflow: auto;
+        .small {
+            display: flex;
+            flex-direction: column;
+            background-color: grey;
         }
 
         .footer {
+            background-color:  rgb(179, 171, 171);
+        }
+
+        .navigation {
+            background-color:silver;
+            width: 15em;
     
-            background-color:honeydew;
-            clear: both;
+        }
+
+        .article1 {
+
+            background-color:  rgb(89, 92, 92);
+            margin-bottom: .2em;
+            flex-grow: 1;
+
+        }
+        .article2{
+            flex-grow: 3;
         }
 
         .img {
             float: right;
-            height: 60px;
-            width: 60px;
+            height: 70px;
+            width: 70px;
             margin: 10px;
         }
     </style>
+
+
 </head>
 
 <body>
+    <div class="large">
 
-    <div class="main">
-    <div class="navigation">
+        <div class="medium">
+            <div class="navigation">
+                <h3>Блок навигации</h3>
+                <ul>
+                    <li>Ширина 15em</li>
+                    <li>Должен присутстовать цвет фона</li>
+                    <li>Располагается слева</li>
+                    <li>Блок навигации наполните контентом, чтобы по навигации он начинал захватывать вторую статью, как
+                        показано в данном примере</li>
+                </ul>
+            </div>
 
-        <h3>Блок навигации</h3>
-        <ul>
-            <li>Ширина 15em</li>
-            <li>Должен присутстовать цвет фона</li>
-            <li>Располагается слева</li>
-            <li>Блок навигации наполните контентом, чтобы по навигации он начинал захватывать вторую статью, как
-                показано в данном примере</li>
-        </ul>
+            <div class="small">
+                <div class="article1">
+
+                    <h3>Статья 1</h3> <br>
+
+                    <p>Размер блока: <br>
+                        Занимает всю доступную ширину <br>
+                        Должен присутстовать цвет фона <br>
+                        Во всех "статьях" сделайте отступ снизу от соседей равным .2em, при помощи свойста margin-bottom
+                    </p>
+                </div>
+
+
+
+                <div class="article1 article2">
+                    <h3>Статья 2</h3> <br>
+
+                    <p><img src="/home/Images/home.svg" alt="home.picture" class="img"> 
+                    Размер блока: <br>
+                    Занимает всю доступную ширину <br>
+                    Должен присутстовать цвет фона <br>
+                    Во всех "статьях" сделайте отступ снизу от соседей равным .2em, при помощи свойста
+                    margin-bottom.
+                    Картинка
+                    вставлена при помощи тега, плавание организовано по правому краю внутри данной статья для
+                    этой
+                    картинки.
+                    <span> </span>
+
+                    </p>
+                </div>
+
+            </div>
+        </div>
+
+
+
+        <div class="footer">
+            <p>Нижний блок, подвал. Занимает всю доступную ширину. Высота определяется помещенным внутри
+                контейнером.
+            </p>
+        </div>
+
     </div>
 
-    <div class="wrap">
-    <div class="article">
-
-        <h3>Статья 1</h3>
-
-        <p>Размер блока: <br>
-            Занимает всю доступную ширину <br>
-            Должен присутстовать цвет фона <br>
-            Во всех "статьях" сделайте отступ снизу от соседей равным .2em, при помощи свойста margin-bottom
-        </p>
-
-    </div>
-
-
-    <div class="article">
-
-        <h3>Статья 2</h3>
-
-        <p><img src="/home/Images/home.svg" alt="home.picture" class="img">
-            Размер блока: <br>
-            Занимает всю доступную ширину <br>
-            Должен присутстовать цвет фона <br>
-            Во всех "статьях" сделайте отступ снизу от соседей равным .2em, при помощи свойста margin-bottom.
-            Картинка
-            вставлена при помощи тега, плавание организовано по правому краю внутри данной статья для этой
-            картинки.
-
-    </div>
-
-</div>
-</div>
-
-    <div class="footer">
-        <p>Нижний блок, подвал. Занимает всю доступную ширину. Высота определяется помещенным внутри контейнером.</p>
-    </div>
 
 
 </body>
