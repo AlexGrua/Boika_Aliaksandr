@@ -1,56 +1,115 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=, initial-scale=1.0">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        div{
-            width: 500px;
-            height: 300px;
-            background-color: red;
-            background-image: url(/home/Images/Python-Icon.png);
-            background-repeat: repeat-y;
-            background-position: center;
-            font-size: 100px;
-            background-attachment: scroll;
+        div > span {
+            color: blue;
         }
-        ul{
-            list-style-image: url(/home/Images/home-icon.png);
+
+        [title="hello2"]{
+            border: 2px solid red;
+
         }
+            [type="text"]{
+                border: 3px solid blue;
+            }
+            /* a[href^="https://www.pe"]{
+                color: aqua;
+            }
+            a[href$=".com/pts"]{
+                color: red;
+            }
+            a[href*="elixir"]{
+                text-decoration: line-through;
+            } */
+            p::first-letter{
+                font-size: 50px;
+            }
+            p::first-line{
+                color: red;
+            }
+            p::selection{
+                background-color: blue;
+                color: aqua;
+            }
+.planet{
+    counter-reset: planet;
+}
+.planet li::before{
+    counter-increment: planet +1;
+    content: "Планета " counter(planet) ": ";
+    color: red;
+}
+        a:visited{
+            color: aqua;
+        }
+        a:focus{
+            font-style: italic;
+        }
+        a:link{
+            color: red;
+        }
+        a:hover{
+            background-color: black;
+        }
+
+        li:first-child{
+            color:aqua;
+        }
+        li:nth-child(odd){
+            color:blueviolet;
+        }
+     
     </style>
 </head>
+
 <body>
 
-    <h1>Hi!</h1>
-    <br>
 
-    <p>Lorem ipsum dolor sit amet <span style="color: red; white-space: pre; visibility: hidden; display: none;" > 
-elit. 
-    Dolorum, 
-        iure 
-        animi</span> possimus dolorem aperiam corporis 
-        eveniet deserunt maxime dolor. Odio a vitae, odit velit molestias eligendi blanditiis eos ducimus temporibus.
+    <h1>HI! </h1>
 
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, iure animi possimus dolorem aperiam corporis 
-        eveniet deserunt maxime dolor. Odio a vitae, odit velit molestias eligendi blanditiis eos ducimus temporibus.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, iure animi possimus dolorem aperiam corporis 
-        eveniet deserunt maxime dolor. Odio a vitae, odit velit molestias eligendi blanditiis eos ducimus temporibus.
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, iure animi possimus dolorem aperiam corporis 
-        eveniet deserunt maxime dolor. Odio a vitae, odit velit molestias eligendi blanditiis eos ducimus temporibus.
-Привет
-    </p>
-    <div>Hei</div>
-    <ul>
-        <li>3</li>
-        <li>3</li>
-        <li>3</li>
-        <li>3</li>
-        <li>3</li>
+    <span> 111 </span>
+
+    <div>
+        <span> 222</span> <br>
+        <span> 333</span>
+
+        <p>
+
+            <span> 444</span>
+        </p>
+    </div>
+
+    <input type="text"> <br>
+    <input type="email" title="hello1"> <br>
+    <input type="number"><br>
+    <input type="password" title="hello2"><br>
+    <hr>
+
+    <a href="https://www.perplexity.ai/">https://www.perplexity.ai/</a> <br>
+    <a href="https://www.elixir.xyz/apothecaryqwe">https://www.elixir.xyz/apothecary</a> <br>
+    <a href="https://stake.zircuit.com/pts">https://stake.zircuit.com/pts</a> <br>
+
+    <hr>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit sapiente tenetur praesentium delectus corporis dolorem ad aut hic, nulla tempora accusamus quis quaerat quae dolor obcaecati facilis voluptate modi. Vitae!</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit sapiente tenetur praesentium delectus corporis dolorem ad aut hic, nulla tempora accusamus quis quaerat quae dolor obcaecati facilis voluptate modi. Vitae!</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit sapiente tenetur praesentium delectus corporis dolorem ad aut hic, nulla tempora accusamus quis quaerat quae dolor obcaecati facilis voluptate modi. Vitae!</p>
+
+    <hr>
+
+    <ul class="planet">
+        <li>Земля</li>
+        <li>Венера</li>
+        <li>Марс</li>
+        <li>Уран</li>
+        <li>Нептун</li>
+
+
     </ul>
-
-   
-
 </body>
+
 </html>
