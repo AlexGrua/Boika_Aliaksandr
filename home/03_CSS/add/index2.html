@@ -7,6 +7,10 @@
     <title>Document</title>
 
     <style>
+        body{
+         
+            counter-set: numbers 65;
+        }
         table {
             border-spacing: 0px;
             border: black solid 2px;
@@ -22,6 +26,8 @@
             width: 30px;
             height: 30px;
             border: black solid 2px;
+            text-align: center;
+            font-weight: 500;
 
         }
 
@@ -30,6 +36,8 @@
 
             td:nth-child(odd) {
                 background-color: black;
+                color: white;
+            
             }
         }
 
@@ -38,7 +46,14 @@
 
             td:nth-child(even) {
                 background-color: black;
+                color: white;
             }
+        }
+        td:before{
+          
+            counter-increment: numbers -1;
+            content: counter(numbers) "";
+     
         }
     </style>
 </head>
