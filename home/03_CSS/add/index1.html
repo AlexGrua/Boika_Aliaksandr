@@ -6,8 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+        * {
+            margin: 1px;
+            padding: 0;
+        }
+
         p {
             text-indent: 20px;
+            border: solid 1px silver;
+            border-radius: 0 10px 0 10px;
         }
 
 
@@ -30,7 +37,23 @@
         a[href$=".page"]::before {
             content: url(/home/Images/css_03/page.jpg)
         }
-        
+
+        a[href="#1"]:hover {
+            background: url(/home/Images/css_03/word.jpg) no-repeat 135px;
+        }
+
+        a[href="#2"]:hover {
+            background: url(/home/Images/css_03/pdf.png) no-repeat 100px;
+        }
+
+        a[href="#3"]:hover {
+            background: url(/home/Images/css_03/zip.gif) no-repeat 45px;
+
+        }
+
+        span {
+            padding-right: 20px;
+        }
     </style>
 </head>
 
@@ -59,10 +82,9 @@
 
     <h1>Это список файлов</h1>
 
-    <a href="#.page"></a><a href="#.doc">Документ MS Word</a> <br>
-    <a href="#.page"><a href="#.pdf">Документ PDF</a><br>
-        <a href="#.page"><a href="#.zip">Архив</a><br>
-
+    <a href="#.page"></a><a href="#1"><span>Документ MS Word</span></a> <br>
+    <a href="#.page"><a href="#2"><span>Документ PDF</span></a><br>
+        <a href="#.page"><a href="#3"><span>Архив</span></a><br>
 
 
 
