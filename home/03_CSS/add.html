@@ -6,11 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-     
-
-    
- 
-
         .week>div {
             width: 100px;
             border: 2px solid black;
@@ -19,17 +14,23 @@
             color: grey;
             position: relative;
             cursor: pointer;
-      
+
         }
 
-        .day {           
+        .day {
             float: left;
-       
+
         }
 
 
         div.meals {
-            display: none
+            height: 0.3em;
+            padding: 0;
+            margin: 0;
+            visibility: collapse;
+            opacity: 0;
+            transition: opacity 1s ease-out 1s;
+            
         }
 
         .meals>div {
@@ -39,38 +40,48 @@
             background-color: silver;
             color: grey;
             cursor: pointer;
+
+
+
         }
 
 
         div.week>div:hover div.meals {
-            display: block;
+
             position: absolute;
             z-index: 1;
+            visibility: visible;
+            opacity: 1;
+
+
+
         }
-        
-        div.week>div:hover { 
+
+
+
+        div.week>div:hover {
             color: lightgrey;
             background-color: grey;
-         
+
+
         }
 
 
-        @media screen and (max-device-width: 710px) 
-     {
-        .week {width: 120px;}
 
-        div.week>div:hover div.meals {
-            display: block;
-            left: 100%;
-            top: 10%;
-            position: absolute;
-            z-index: 1
+
+        @media screen and (max-device-width: 700px) {
+            .week {
+                width: 120px;
+            }
+
+            div.week>div:hover div.meals {
+                display: block;
+                left: 100%;
+                top: 10%;
+                position: absolute;
+                z-index: 1
+            }
         }
-    }
-
-
-   
-  
     </style>
 </head>
 

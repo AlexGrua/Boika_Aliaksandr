@@ -1,53 +1,30 @@
 <!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-    .head{
-        background-color: red;
-        height: 300px    }
-    .menu{
-        width:200px;
-        height: 300px;
-        background-color:aqua;
-        float:left
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>transition</title>
+  <style>
+   #bar {
+    top:-5.5em; right:5em; /* Положение */
+     padding: .5em; /* Поля */
+     margin: 0; /* Отступы */
+     position: absolute; /* Абсолютное позиционирование */
+     width: 2em; /* Ширина */
+     background: #333; /* Цвет фона */
+     color: #fff; /* Цвет текста */
+     text-align: center; /* Выравнивание по центру */
+     /* Переход */
+ 
+     transition: top 1s ease-out 0.5s;
     }
-
-    .content{
-        background-color: blue;
-        height: 300px;
-        float: none;
-
-    }
-    .banner{
-        width:200px;
-        height: 300px;
-        background-color:rgb(4, 44, 44);
-        float:right
-    }
-    .footer{
-        background-color:bisque;
-        height: 300px;
-        clear:both
-
-    }
-
-
-    
-    </style>
-</head>
-
-<body>
-<div class="head">Header</div>
-<div class="menu">Menu</div>
-<div class="banner">Banner</div>
-<div class="content">Content</div>
-<div class="footer">Footer</div>
-
-</body>
-</body>
-
+   #bar:hover { top: 0; }
+  </style>
+ </head>
+ <body>
+  <ul id="bar">
+   <li>1</li><li>2</li>
+   <li>3</li><li>4</li>
+   <li>&darr;</li>
+  </ul>
+ </body>
 </html>
