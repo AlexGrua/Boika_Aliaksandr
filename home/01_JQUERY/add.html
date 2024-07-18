@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ 
+       
+</head>
+
+<body>
+
+    <h2>Проверка пароля</h2>
+
+    <form action="http://fe.it-academy.by/TestForm.php" method="post" name="authorization">
+
+ 
+
+        <fieldset>
+         
+            <input type="text" name="pass1" id="pass1" required> <label for="pass1">* Пароль</label> <br>
+            <input type="text" name="pass2" id="pass2" required> <label for="pass2">* Повторите пароль</label> <br> <br>
+
+            <input type="submit" value="Отправить"> <br>
+        
+
+
+        </fieldset>
+
+    
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+
+    <script>
+
+        $(document).ready(function ($) {
+
+            $('#pass1').focus(function(){
+                $(this).css('backgroundColor','green')
+             
+            })
+            var pass1
+
+            $('#pass2').focus(function(){
+
+                if (var1==var2){
+
+                    $('pass2').css('backgroundColor','green')
+                }
+
+                else
+                { $('pass2').css('backgroundColor','red')}
+               
+             
+            })
+
+
+
+
+
+
+            
+
+            // $('[class=row22]').click(function () {
+            //     $(this).hide(500);
+
+            // }),
+
+            //     $('#button-7').click(function () {
+            //         $('[class=row22]').show('slow')
+
+            //     })
+
+
+        })
+
+    </script>
+</body>
+
+</html>
