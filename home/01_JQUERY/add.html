@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
- 
-       
+
+
 </head>
 
 <body>
@@ -15,72 +15,54 @@
 
     <form action="http://fe.it-academy.by/TestForm.php" method="post" name="authorization">
 
- 
+
 
         <fieldset>
-         
+
             <input type="text" name="pass1" id="pass1" required> <label for="pass1">* Пароль</label> <br>
             <input type="text" name="pass2" id="pass2" required> <label for="pass2">* Повторите пароль</label> <br> <br>
 
-            <input type="submit" value="Отправить"> <br>
-        
+            <input type="submit" name="button" value="Отправить"> <br>
+
 
 
         </fieldset>
-
-    
-
+    </form>
 
 
 
 
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
-        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
-    <script>
 
-        $(document).ready(function ($) {
 
-            $('#pass1').focus(function(){
-                $(this).css('backgroundColor','green')
-             
-            })
-            var pass1
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+            integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
-            $('#pass2').focus(function(){
+        <script>
 
-                if (var1==var2){
 
-                    $('pass2').css('backgroundColor','green')
+
+
+        $(document).ready(function () {
+
+            $('#pass1').keyup(function () {
+             $(this).css('backgroundColor', 'green');
+            });
+
+
+            $('#pass2').keyup(function () {
+                var pass1 = $('#pass1').val();
+                var pass2 = $(this).val();
+
+                if (pass1 !== pass2) {
+                    $(this).css('backgroundColor', 'red');
+                } else {
+                    $(this).css('backgroundColor', 'green');
                 }
+            });
+        });
 
-                else
-                { $('pass2').css('backgroundColor','red')}
-               
-             
-            })
-
-
-
-
-
-
-            
-
-            // $('[class=row22]').click(function () {
-            //     $(this).hide(500);
-
-            // }),
-
-            //     $('#button-7').click(function () {
-            //         $('[class=row22]').show('slow')
-
-            //     })
-
-
-        })
-
-    </script>
+        </script>
 </body>
 
 </html>
