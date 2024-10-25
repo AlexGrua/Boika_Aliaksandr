@@ -23,10 +23,10 @@
     <li>
       <a href="#about-the-project">О Проекте</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">На чем построен Проект</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Использование</a></li>
+    <li><a href="#usage">Пример использования Проекта</a></li>
     <li><a href="#contact">Контакты</a></li>
 
   </ol>
