@@ -71,8 +71,8 @@ Data Vis предоставляет возможность визуализац�
 2. Загрузка Excel-файла или ссылки на Google-таблицы с «raw data
 
    
-<a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png" alt="Logo" width="1000" height="400">
+<a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/upload.png">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/upload.png" alt="Logo" width="1000" height="400">
 </a>
 
   
