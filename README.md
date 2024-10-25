@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/e0118dce-5bf4-435c-8e18-93bc14b19d4e)![image](https://github.com/user-attachments/assets/7243918f-ef74-4a11-98b4-779673e152bb)
 
 
 
 
 <!-- PROJECT LOGO -->
+<a id="readme-top"></a>
 <br />
 <div align="center">
   <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/logo2.png">
