@@ -61,11 +61,21 @@ Data Vis предоставляет возможность визуализац�
 <!-- Usage -->
 ## Пример использования Проекта
 
-1. Регистрация на сайте
+1. Создание учетной записи/вход в учетную запись на сайте
 
-    <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png">
+<a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png">
     <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png" alt="Logo" width="1000" height="400">
-  </a>
+</a>
+
+
+2. Загрузка Excel-файла или ссылки на Google-таблицы с «raw data
+
+   
+<a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png" alt="Logo" width="1000" height="400">
+</a>
+
+  
 
 
    
