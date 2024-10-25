@@ -48,6 +48,7 @@
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![Python][Python.org]][Python-url]
 * [![Plotly][Plotly.com]][Plotly-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 
 
