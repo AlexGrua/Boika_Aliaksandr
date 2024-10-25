@@ -39,14 +39,13 @@
 ### Built With
 
 
-
-[![Angular][Angular.io]][Angular-url]
-[![Svelte][Svelte.dev]][Svelte-url]
-[![Laravel][Laravel.com]][Laravel-url]
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-[![JQuery][JQuery.com]][JQuery-url]
-[![Pandas][Pandas.org]][Pandas-url]
-[![Django][DjangoProject.com]][Django-url]
+*[![Pandas][Pandas.org]][Pandas-url]
+*[![Django][DjangoProject.com]][Django-url]
+*[![Angular][Angular.io]][Angular-url]
+*[![Svelte][Svelte.dev]][Svelte-url]
+*[![Laravel][Laravel.com]][Laravel-url]
+*[![Bootstrap][Bootstrap.com]][Bootstrap-url]
+*[![JQuery][JQuery.com]][JQuery-url]
 
 
 
