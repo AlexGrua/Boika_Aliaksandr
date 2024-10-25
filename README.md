@@ -6,8 +6,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/home/Images/Python-Icon.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/home/Images/Python-Icon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/logo2.png">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/logo2.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Data Vis</h3>
