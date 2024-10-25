@@ -10,11 +10,8 @@
     <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/logo2.png" alt="Logo" width="300" height="300">
   </a>
 
-<h3 align="center">Data Vis</h3>
+<h3 align="center">ВИЗУАЛИЗАЦИЯ ЦИФРОВЫХ ДАННЫХ</h3>
 
-  <p align="center">
-ВИЗУАЛИЗАЦИЯ ЦИФРОВЫХ ДАННЫХ
-  </p>
 </div>
 
 
