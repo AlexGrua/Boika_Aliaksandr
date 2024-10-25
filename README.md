@@ -64,7 +64,7 @@ Data Vis предоставляет возможность визуализац�
 1. Регистрация на сайте
 
     <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png" alt="Logo" width="600" height="474">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png" alt="Logo" width="1000" height="400">
   </a>
 
 
