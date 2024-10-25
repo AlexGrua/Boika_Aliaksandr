@@ -58,6 +58,7 @@
 * [![Plotly][Plotly.com]][Plotly-url]
 * [![Python][Python.org]][Python-url]
 * [![JavaScript][JavaScript.com]][JavaScript-url]
+* [![Pandas][Pandas.org]][Pandas-url]
 
 
 
@@ -98,4 +99,6 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Python-url]: https://www.python.org/
 [JavaScript.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [JavaScript-url]: https://www.javascript.com/
+[Pandas.org]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org/
 
