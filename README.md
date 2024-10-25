@@ -82,7 +82,7 @@ Data Vis предоставляет возможность визуализац�
 
    
 <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/select.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/select.png" alt="Logo" width="800" height="500">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/select.png" alt="Logo" width="100" height="625">
 </a>
 
 <br />
@@ -101,7 +101,7 @@ Data Vis предоставляет возможность визуализац�
 
    
 <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Final.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Final.png" alt="Logo" width="700" height="500">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Final.png" alt="Logo" width="1000" height="715">
 </a>
 
 <br />
@@ -112,7 +112,7 @@ Data Vis предоставляет возможность визуализац�
 
    
 <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Sharing.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Sharing.png" alt="Logo" width="930" height="500">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Sharing.png" alt="Logo" width="100" height="540">
 </a>
 
 <br />
