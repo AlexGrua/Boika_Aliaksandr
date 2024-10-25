@@ -26,30 +26,16 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT 1212 -->
-## About The Project
-
-
 <!-- ABOUT THE PROJECT -->
-## О Проекте
+## About the project
 
 Информация о проекте
 Информация о проекте
@@ -78,8 +64,8 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ABOUT THE PROJECT -->
-## Использование на практике
+<!-- Usage -->
+## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -90,7 +76,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- CONTACT -->
-## Контакты
+## Contact
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
