@@ -46,6 +46,8 @@
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Python][Python.org]][Python-url]
+* [![Plotly][Plotly.com]][Plotly-url]
 
 
 
