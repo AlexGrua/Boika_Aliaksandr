@@ -92,7 +92,7 @@ Data Vis предоставляет возможность визуализац�
 
    
 <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/charts.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/charts.png" alt="Logo" width="800" height="500">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/charts.png" alt="Logo" width="1000" height="500">
 </a>
 
 <br />
@@ -102,7 +102,7 @@ Data Vis предоставляет возможность визуализац�
 
    
 <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/final.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/final.png" alt="Logo" width="800" height="500">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/final.png" alt="Logo" width="700" height="500">
 </a>
 
 <br />
