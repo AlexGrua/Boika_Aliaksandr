@@ -91,8 +91,8 @@ Data Vis предоставляет возможность визуализац�
 4. Выбор нужного типа визуализации
 
    
-<a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/charts.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/charts.png" alt="Logo" width="1000" height="500">
+<a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Charts.png">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Charts.png" alt="Logo" width="1000" height="500">
 </a>
 
 <br />
@@ -101,8 +101,8 @@ Data Vis предоставляет возможность визуализац�
 
 
    
-<a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/final.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/final.png" alt="Logo" width="700" height="500">
+<a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Final.png">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Final.png" alt="Logo" width="700" height="500">
 </a>
 
 <br />
@@ -112,8 +112,8 @@ Data Vis предоставляет возможность визуализац�
 
 
    
-<a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/sharing.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/sharing.png" alt="Logo" width="930" height="500">
+<a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Sharing.png">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Sharing.png" alt="Logo" width="930" height="500">
 </a>
 
 <br />
