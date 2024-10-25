@@ -22,7 +22,7 @@
   <ol>
     <li> <a href="#about-the-project">О Проекте</a></li>
     <li><a href="#usage">Использование на практике</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Контакты</a></li>
 
   </ol>
 </details>
@@ -30,7 +30,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## О Проекте
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
