@@ -61,10 +61,14 @@ Data Vis предоставляет возможность визуализац�
 <!-- Usage -->
 ## Пример использования Проекта
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Регистрация на сайте
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+    <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/Login.png" alt="Logo" width="600" height="474">
+  </a>
 
+
+   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
