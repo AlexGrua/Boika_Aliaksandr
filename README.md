@@ -23,7 +23,7 @@
     <li>
       <a href="#about-the-project">О Проекте</a>
       <ul>
-        <li><a href="#built-with-111">На чем построен Проект</a></li>
+        <li><a href="#На-чем-построен-Проект">На чем построен Проект</a></li>
       </ul>
     </li>
     <li><a href="#usage">Пример использования Проекта</a></li>
@@ -50,7 +50,7 @@
 
 
 
-### Built With 111
+### На чем построен Проект
 
 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
