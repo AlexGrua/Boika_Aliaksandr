@@ -47,13 +47,12 @@ Data Vis предоставляет возможность визуализац�
 
 ### На чем построен Проект
 
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Django][DjangoProject.com]][Django-url]
-* [![Plotly][Plotly.com]][Plotly-url]
 * [![Python][Python.org]][Python-url]
-* [![JavaScript][JavaScript.com]][JavaScript-url]
+* [![Django][DjangoProject.com]][Django-url]
 * [![Pandas][Pandas.org]][Pandas-url]
-
+* [![Plotly][Plotly.com]][Plotly-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JavaScript][JavaScript.com]][JavaScript-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
