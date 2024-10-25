@@ -41,28 +41,10 @@
 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![Django][Django.com]][Django-url]
+* [![Django][Djangoproject.com]][Django-url]
 
 * [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 
-
-[<h1 align="center">
-  [![Contributors][contributors-shield]][contributors-url]
-  [![Forks][forks-shield]][forks-url]
-  [![Stargazers][stars-shield]][stars-url]
-</h1>
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg
-[contributors-url]: https://example.com
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg
-[forks-url]: https://example.com
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg
-[stars-url]: https://example.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
