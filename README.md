@@ -54,7 +54,10 @@
 
 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Django][DjangoProject.com]][Django-url]
+* [![Plotly][Plotly.com]][Plotly-url]
+* [![Python][Python.org]][Python-url]
+* [![JavaScript][JavaScript.com]][JavaScript-url]
 
 
 
@@ -87,4 +90,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[DjangoProject.com]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[Django-url]: https://www.djangoproject.com/
+[Plotly.com]: https://img.shields.io/badge/Plotly-3B0A45?style=for-the-badge&logo=plotly&logoColor=white
+[Plotly-url]: https://plotly.com/
+[Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+[JavaScript.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JavaScript-url]: https://www.javascript.com/
 
