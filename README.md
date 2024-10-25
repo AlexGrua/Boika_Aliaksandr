@@ -111,7 +111,7 @@ Data Vis предоставляет возможность визуализац�
 
    
 <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/sharing.png">
-    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/sharing.png" alt="Logo" width="1000" height="540">
+    <img src="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/images/sharing.png" alt="Logo" width="1000" height="460">
 </a>
 
 <br />
