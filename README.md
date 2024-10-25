@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[https://github.com/github_username/repo_name](https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/logo2.png)">
+  <a href="https://github.com/AlexGrua/Boika_Aliaksandr/blob/main/home/Images/Python-Icon.png">
     <img src="images/logo2.png" alt="Logo" width="80" height="80">
   </a>
 
