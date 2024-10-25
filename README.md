@@ -21,13 +21,13 @@
   <summary>СОДЕРЖАНИЕ</summary>
   <ol>
     <li>
-      <a href="#about-the-project">О Проекте</a>
+      <a href="#О-Проекте">О Проекте</a>
       <ul>
         <li><a href="#На-чем-построен-Проект">На чем построен Проект</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Пример использования Проекта</a></li>
-    <li><a href="#contact">Контакты</a></li>
+    <li><a href="#Пример-использования-Проекта">Пример использования Проекта</a></li>
+    <li><a href="#Контакты">Контакты</a></li>
 
   </ol>
 </details>
@@ -35,8 +35,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About the project 1111
-
+## О Проекте
 Информация о проекте
 Информация о проекте
 Информация о проекте
@@ -65,7 +64,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Usage -->
-## Usage
+## Пример использования Проекта
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -76,7 +75,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- CONTACT -->
-## Contact
+## Контакты
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
