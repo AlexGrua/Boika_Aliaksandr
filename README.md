@@ -41,7 +41,7 @@
 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![Pandas][Djangoproject.com]][Django-url]
+* [![Pandas][Bootstrap.com]][Django-url]
 
 
 
