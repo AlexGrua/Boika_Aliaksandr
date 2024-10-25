@@ -44,11 +44,11 @@
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Bootstrap][Python.org]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![Python][Python.org]][Python-url]
 * [![Plotly][Plotly.com]][Plotly-url]
-* [![Bootstrap][Bootstrap.cfom]][Bootstrap-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 
 
